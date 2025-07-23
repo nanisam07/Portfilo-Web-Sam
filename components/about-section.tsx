@@ -31,17 +31,8 @@ Idea2Site is my way of helping people launch websites without the tech headache 
 I’m someone who gets excited about solving problems, learning new tech, and bringing ideas to life. When I’m not coding, you’ll probably find me exploring UI trends, doodling concepts for my next side project, or sharing tips with fellow devs.
 
 Let’s build something awesome together.
-
-              Highly Motivated Computer Science Engineering student with a strong foundation in Python, C, and
-              JavaScript, React.js, SQL. Demonstrated hands-on experience through academic projects in web development.
-              Eager to apply technical knowledge and problem-solving abilities to contribute to innovative software
-              solutions while gaining practical industry experience.
-
             </p>
-            <p className="text-lg leading-relaxed mb-6">
-              I am currently running my own institute from past 2 years consistently ranked among the top 3 in medchal.
-              Cleared JEE ADVANCED in 2022. Participated in district wise music competition and ranked in top 10.
-            </p>
+            
             <div className="mt-10">
               <h3 className="text-xl font-semibold mb-4">HOBBIES</h3>
               <ul className="flex flex-wrap justify-center gap-4">

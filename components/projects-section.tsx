@@ -139,16 +139,6 @@ export function ProjectsSection() {
     </Link>
   </Button>
 ) : null}
-
-
-                      
-                      <Button variant="default" size="sm" asChild>
-                        <Link href="#" className="flex items-center gap-1">
-                          <ExternalLink size={16} />
-                          Demo
-                        </Link>
-                      </Button>
-
                     </div>
                   </div>
                 </div>

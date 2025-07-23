@@ -20,6 +20,7 @@ export function AboutSection() {
           <h2 className="text-3xl md:text-5xl font-bold mb-8 text-center text-gradient">ABOUT ME</h2>
           <div className="prose prose-lg dark:prose-invert mx-auto glass p-8 rounded-xl">
             <p className="text-lg leading-relaxed mb-6">
+
               👋 Hey, I'm Samuel!
 I'm a developer, builder, and the creator of Idea2Site — a project born from my love for turning cool ideas into fully working websites, fast and effortlessly.
 
@@ -30,6 +31,12 @@ Idea2Site is my way of helping people launch websites without the tech headache 
 I’m someone who gets excited about solving problems, learning new tech, and bringing ideas to life. When I’m not coding, you’ll probably find me exploring UI trends, doodling concepts for my next side project, or sharing tips with fellow devs.
 
 Let’s build something awesome together.
+
+              Highly Motivated Computer Science Engineering student with a strong foundation in Python, C, and
+              JavaScript, React.js, SQL. Demonstrated hands-on experience through academic projects in web development.
+              Eager to apply technical knowledge and problem-solving abilities to contribute to innovative software
+              solutions while gaining practical industry experience.
+
             </p>
             <p className="text-lg leading-relaxed mb-6">
               I am currently running my own institute from past 2 years consistently ranked among the top 3 in medchal.

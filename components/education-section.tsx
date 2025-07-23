@@ -12,7 +12,9 @@ export function EducationSection() {
 
   const educationData = [
     {
+
       period: "2022-2026",
+      
       degree: "Bachelor of Technology",
       field: "COMPUTER SCIENCE ENGINEERING",
       institution: "MALLAREDDY INSTITUTE OF ENGINEERING AND TECHNOLOGY",

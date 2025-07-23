@@ -14,7 +14,9 @@ const projects = [
     description: "A responsive weather application that provides real-time weather information based on location.",
     tags: ["React", "API", "JavaScript"],
     image: "/images/weather.png",
+
     demo: "https://weather-based-activity-recommender.onrender.com/",
+
   },
   {
     title: "Restaurant Web Application",
@@ -27,14 +29,20 @@ const projects = [
     description: "A secure password generator with customizable options for length and character types.",
     tags: ["JavaScript", "HTML", "CSS"],
     image: "/images/pass.png",
+
     demo: "https://password-generator-sam.vercel.app/",
+
+
   },
   {
     title: "Online Games Portal",
     description: "A platform hosting multiple browser-based games with user accounts and leaderboards.",
     tags: ["JavaScript", "HTML5", "CSS3"],
     image: "/images/online game .png",
+
     demo: "https://online-game-sigma.vercel.app/",
+
+
   },
   {
     title: "Blinkit Sales Analysis Dashboard",
@@ -116,6 +124,7 @@ export function ProjectsSection() {
                       ))}
                     </div>
                     <div className="flex justify-between">
+
                       
 {project.demo ? (
   <Button variant="default" size="sm" asChild>
@@ -130,6 +139,15 @@ export function ProjectsSection() {
     </Link>
   </Button>
 ) : null}
+
+
+                      
+                      <Button variant="default" size="sm" asChild>
+                        <Link href="#" className="flex items-center gap-1">
+                          <ExternalLink size={16} />
+                          Demo
+                        </Link>
+                      </Button>
 
                     </div>
                   </div>

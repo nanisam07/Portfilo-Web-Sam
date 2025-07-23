@@ -28,7 +28,11 @@ export function AnimatedGradientBackground() {
     let opacityDirection = 1
 
     function drawGradient() {
+
       if (!ctx || !canvas) return
+
+      if (!ctx) return
+
 
       // Create gradient
       const gradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height)
